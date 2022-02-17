@@ -1,0 +1,2 @@
+set up environment
+1. npm create-react-app feedback-app --use-npm
