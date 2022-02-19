@@ -1,3 +1,6 @@
 set up environment
 1. npm create-react-app feedback-app --use-npm
 2. npm i react-icons
+3. npm i uuid
+4. npm i framer-motion@4.1.17
+5. npm i react-router-dom
