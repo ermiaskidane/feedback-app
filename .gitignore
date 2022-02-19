@@ -4,12 +4,15 @@
 /node_modules
 /.pnp
 .pnp.js
-note.txt
+
 # testing
 /coverage
 
 # production
 /build
+
+
+note.txt
 
 # misc
 .DS_Store
